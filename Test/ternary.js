@@ -9,4 +9,5 @@ const marks = 40;
 
 
 
+
 (marks>50)? console.log("Pass"):console.log("Fail");
